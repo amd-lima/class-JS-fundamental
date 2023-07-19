@@ -6,5 +6,5 @@ const div = document.getElementById('div');
 const headerByQuery = document.querySelectorAll('#header');
 
 console.log('header => ', header);
-console.log('###########');
+console.log('----------*-------------*------------');
 console.log('headerByQuery => ', headerByQuery);
